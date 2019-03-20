@@ -50,9 +50,11 @@
                 </div>
 
                 <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+                    
                 </button>
 
                 <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+                    
                 </button>
 
                 <div class="pswp__caption">
@@ -66,8 +68,6 @@
 </template>
 
 <script>
-	import 'photoswipe/dist/photoswipe.css'
-    import 'photoswipe/dist/default-skin/default-skin.css'
     export default{
 
     }
