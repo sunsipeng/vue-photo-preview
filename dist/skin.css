@@ -597,11 +597,11 @@ a.pswp__share--download:hover {
 
 .pswp__scroll-wrap .pswp__button--arrow--left{
 	background: url(./photo-preview-skin/arrow_left.png) no-repeat center;
-    background-size: 34px 30px;
+    background-size: 57px 45px;
 }
 
 .pswp__scroll-wrap .pswp__button--arrow--right{
 	background: url(./photo-preview-skin/arrow_right.png) no-repeat center;
-    background-size: 34px 30px;
+    background-size: 57px 45px;
 }
 /*# sourceMappingURL=skin.css.map*/
